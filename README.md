@@ -13,7 +13,7 @@
 
 - 🔭 Undergraduate student at Trincomalee Campus, Eastern University
 - 🌍 Location: Monaragala, Sri Lanka
-- 💻 Fields of Interest: HTML, CSS, JavaScript, React, Web Development
+- 💻 Fields of Interest: React, HTML, CSS, JavaScript, Web Development
 - 🎓 Currently studying Computer Systems 
 
  ---
@@ -27,12 +27,10 @@
 <h2 align="center">🛠️ Skills & Tools</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-blue" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Code-HTML-orange" alt="HTML" />
-  <img src="https://img.shields.io/badge/Code-CSS-blueviolet" alt="CSS" />
-  <img src="https://img.shields.io/badge/Code-C++-blue" alt="C++" />
-  <img src="https://img.shields.io/badge/Tools-Git-brightgreen" alt="Git" />
-  <img src="https://img.shields.io/badge/Tools-Linux-red" alt="Linux" />
+  <img src="https://img.shields.io/badge/JavaScript-blue" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-orange" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-blueviolet" alt="CSS" />
+  <img src="https://img.shields.io/badge/React-blue" alt="React" />
 </p>
 
 ---
