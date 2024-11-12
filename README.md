@@ -38,4 +38,4 @@
 
 ---
 
-<p align="center">💡 "Strive to build things that make a difference!"</p>
+<p align="center">Strive to build things that make a difference! 🚀</p>
