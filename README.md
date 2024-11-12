@@ -11,8 +11,8 @@
 
 <h2 align="center">✨ About Me</h2>
 
-- 🔭 Undergraduate student at [Trincomalee Campus, Eastern University]
-- 🌍 Location: [Monaragala, Sri Lanka]
+- 🔭 Undergraduate student at Trincomalee Campus, Eastern University
+- 🌍 Location: Monaragala, Sri Lanka
 - 💻 Fields of Interest: HTML, CSS, JavaScript, React, Web Development
 - 🎓 Currently studying Computer Systems 
 
@@ -33,14 +33,6 @@
   <img src="https://img.shields.io/badge/Code-C++-blue" alt="C++" />
   <img src="https://img.shields.io/badge/Tools-Git-brightgreen" alt="Git" />
   <img src="https://img.shields.io/badge/Tools-Linux-red" alt="Linux" />
-</p>
-
----
-
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhushika99&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
