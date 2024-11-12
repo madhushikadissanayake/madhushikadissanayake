@@ -14,12 +14,11 @@
 - 🔭 Undergraduate student at Trincomalee Campus, Eastern University
 - 🌍 Location: Monaragala, Sri Lanka
 - 💻 Fields of Interest: HTML, CSS, JavaScript, React, Java, C++, Web Development
-- 🎓 Currently studying Computer Systems and Network Engineering
-- 
+- 🎓 Currently learning Nextjs, TailwindCs
+ 
 ---
 
 <h2 align="center">📊GitHub Stats</h2>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhushika99&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhushika99&layout=compact&theme=dark" alt="Top Languages" />
