@@ -20,8 +20,8 @@ I'm a Computer Science undergraduate with a passion for creating beautiful, resp
 <h2 align="center">📊GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhushika99&show_icons=true&theme=dark" alt="GitHub Stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhushika99&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 <h2 align="center">🛠️Tech Stack</h2>
