@@ -24,13 +24,16 @@
 
 ---
 
-<h2 align="center">🛠️ Skills & Tools</h2>
+<h2 align="center">🛠️ Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-blue" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML-orange" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-blueviolet" alt="CSS" />
-  <img src="https://img.shields.io/badge/React-blue" alt="React" />
+  <img src="https://img.shields.io/badge/React-yellow" alt="React" />
+  <img src="https://img.shields.io/badge/Java-Green" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-violet" alt="Python" />
+  
 </p>
 
 ---
