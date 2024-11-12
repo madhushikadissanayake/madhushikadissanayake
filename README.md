@@ -19,10 +19,8 @@
 ---
 
 <h2 align="center">📊GitHub Stats</h2>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhushika99&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhushika99&layout=compact&theme=dark" alt="Top Languages" />
-</div>
 
 ---
 
