@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Madhushika Dissanayake 👋</h1>
+<h1 align="center">Hi there, I'm MADHUSHIKA DISSANAYAKE 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhushikadissanayake&color=brightgreen" alt="Profile Views" />
@@ -17,7 +17,7 @@ I'm a <b>Computer Science undergraduate</b> with a strong passion for developing
 
 - 🎓 **Undergraduate** at **Trincomalee Campus, Eastern University**  
 - 📍 **Location**: Monaragala, Sri Lanka  
-- 💻 **Tech Interests**: Full-Stack Development, UI/UX Design   
+- 💻 **Tech Interests**: Full-Stack Development, UI/UX Design 
 - 📚 **Always Learning**: Exploring new technologies and improving problem-solving skills  
 - 🎨 **Hobbies**: Coding, Designing, and Innovating  
 - 😊 **Pronouns**: She/Her  
@@ -36,17 +36,36 @@ I'm a <b>Computer Science undergraduate</b> with a strong passion for developing
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+### 🚀 Programming Languages:
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>
+</p>
+
+### 📚 Frameworks & Libraries:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" title="Tailwind CSS" width="50" height="50"/>
+</p>
+
+### 🗄️ Databases:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg" title="Express.js" width="50" height="50"/>
+</p>
+
+### 🛠️ Tools:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" title="Figma" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="50" height="50"/>
 </p>
 
 ---
@@ -64,4 +83,3 @@ Thanks for stopping by! Let's connect and create something amazing together. �
 </p>
 
 ---
-
