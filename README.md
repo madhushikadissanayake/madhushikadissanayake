@@ -1,68 +1,64 @@
-<h1 align="center">Hi there, I'm Madhushika 👋</h1>
+<h1 align="center">Hi there, I'm Madhushika Dissanayake 👋</h1>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhushika99&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/madhushika99?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/madhushika99?style=social&label=Stars" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License" />
-</div>
+  <img src="https://img.shields.io/github/followers/madhushika99?label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/madhushika99?label=Total%20Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen" alt="License" />
+</p>
 
-## ✨ About Me
+---
 
-<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" />
+<h2 align="center">✨ About Me</h2>
 
-I'm a Computer Science undergraduate with a passion for creating beautiful, responsive websites and applications. Here's a little more about me:
+<p align="center">
+I'm a <b>Computer Science undergraduate</b> with a strong passion for developing innovative, responsive, and user-friendly applications. 🚀  
+</p>
 
-- 🎓 Undergraduator at Trincomalee Campus, Eastern University
-- 🌍 Location: Monaragala, Sri Lanka
-- 💻 Fields of Interest: Web Development, Front-end Development, UI/UX Design
-- 📚 Always eager to learn and dive into new technologies
-- 😊 Pronouns: **She/Her**
-- 🎉 Fun fact: **I love a good sense of humor!**
+- 🎓 **Undergraduate** at **Trincomalee Campus, Eastern University**  
+- 📍 **Location**: Monaragala, Sri Lanka  
+- 💻 **Tech Interests**: Full-Stack Development, UI/UX Design, Cybersecurity  
+- 📚 **Always Learning**: Exploring new technologies and improving problem-solving skills  
+- 🎨 **Hobbies**: Coding, Designing, and Innovating  
+- 😊 **Pronouns**: She/Her  
+- 🎉 **Fun Fact**: I love a good sense of humor! 😄  
 
-<br clear="right"/>
+---
 
-## 🛠️ Tech Stack
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhushika99&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhushika99&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-## 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhushika99&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhushika99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## 📈 Contribution Activity
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="50" height="50"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhushika99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+---
 
-## 🔗 Connect With Me
+<h2 align="center">📈 Contribution Activity</h2>
 
-<div align="center">
-  <a href="https://linkedin.com/in/madhushika" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/madhushika" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="mailto:madhushika@example.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhushika99&theme=dark" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+---
+
+<p align="center">
+Thanks for stopping by! Let's connect and create something amazing together. 🚀✨
+</p>
