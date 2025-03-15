@@ -36,56 +36,43 @@ I'm a <b>Computer Science undergraduate</b> with a strong passion for developing
 
 <h2 align="center">🚀 Tech Stack</h2>
 
-<p align="center">
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-programming-online-learning-flatart-icons-outline-flatarticons.png" width="50" height="50"/>  
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-framework-web-development-flatart-icons-outline-flatarticons.png" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-database-big-data-flatart-icons-outline-flatarticons.png" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-tools-seo-flatart-icons-outline-flatarticons.png" width="50" height="50"/>
-</p>
-
 <div align="center">
-  
-  <table width="80%">
-    <tr>
-      <td align="center" width="50%"><strong>💻 Programming Languages</strong></td>
-      <td align="center" width="50%"><strong>📚 Frameworks & Libraries</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>  
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>
-        <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" title="Tailwind CSS" width="50" height="50"/>
-      </td>
-    </tr>
-  </table>
 
-  <table width="80%">
-    <tr>
-      <td align="center" width="50%"><strong>🗄️ Databases</strong></td>
-      <td align="center" width="50%"><strong>🛠️ Tools</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50" height="50"/>
-      </td>
-      <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50" height="50"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="50" height="50"/>
-        <img src="https://img.icons8.com/color/48/000000/figma.png" title="Figma" width="50" height="50"/>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="50" height="50"/>
-      </td>
-    </tr>
-  </table>
+  <!-- Programming Languages -->
+  <h3>💻 Programming Languages</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>
+  </p>
+
+  <!-- Frameworks & Libraries -->
+  <h3>📚 Frameworks & Libraries</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>
+    <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" title="Tailwind CSS" width="50" height="50"/>
+  </p>
+
+  <!-- Databases -->
+  <h3>🗄️ Databases</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50" height="50"/>
+  </p>
+
+  <!-- Tools -->
+  <h3>🛠️ Tools</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="50" height="50"/>
+    <img src="https://img.icons8.com/color/48/000000/figma.png" title="Figma" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="50" height="50"/>
+  </p>
 
 </div>
 
