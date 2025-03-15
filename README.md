@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Madhushika 👋</h1>
+<h1 align="center">Hi there, I'm Madhushika Dissanayake 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=madhushikadissanayake&color=brightgreen" alt="Profile Views" />
@@ -17,7 +17,7 @@ I'm a <b>Computer Science undergraduate</b> with a strong passion for developing
 
 - 🎓 **Undergraduate** at **Trincomalee Campus, Eastern University**  
 - 📍 **Location**: Monaragala, Sri Lanka  
-- 💻 **Tech Interests**: Full-Stack Development, UI/UX Design, Cybersecurity  
+- 💻 **Tech Interests**: Full-Stack Development, UI/UX Design   
 - 📚 **Always Learning**: Exploring new technologies and improving problem-solving skills  
 - 🎨 **Hobbies**: Coding, Designing, and Innovating  
 - 😊 **Pronouns**: She/Her  
@@ -46,7 +46,7 @@ I'm a <b>Computer Science undergraduate</b> with a strong passion for developing
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg" title="Express.js" width="50" height="50"/>
 </p>
 
 ---
@@ -65,4 +65,3 @@ Thanks for stopping by! Let's connect and create something amazing together. �
 
 ---
 
-🔗 **Find me on GitHub**: [github.com/madhushikadissanayake](https://github.com/madhushikadissanayake)
