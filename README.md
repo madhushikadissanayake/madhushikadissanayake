@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm Madhushika Dissanayake 👋</h1>
+<h1 align="center">Hi there, I'm Madhushika 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhushika99&color=brightgreen" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/madhushika99?label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/madhushika99?label=Total%20Stars" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=madhushikadissanayake&color=brightgreen" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/madhushikadissanayake?label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/madhushikadissanayake?label=Total%20Stars" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/License-MIT-brightgreen" alt="License" />
 </p>
 
@@ -28,8 +28,8 @@ I'm a <b>Computer Science undergraduate</b> with a strong passion for developing
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhushika99&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhushika99&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhushikadissanayake&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhushikadissanayake&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
@@ -54,11 +54,15 @@ I'm a <b>Computer Science undergraduate</b> with a strong passion for developing
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhushika99&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhushikadissanayake&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-Thanks for stopping by! Let's connect and create something amazing together. 🚀✨
+Thanks for stopping by! Let's connect and create something amazing together. 🚀✨  
 </p>
+
+---
+
+🔗 **Find me on GitHub**: [github.com/madhushikadissanayake](https://github.com/madhushikadissanayake)
