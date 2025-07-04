@@ -52,6 +52,7 @@ I'm a <b>Computer Science undergraduate</b> with a strong passion for developing
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js"/>
       <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" width="50" title="Tailwind CSS"/>
