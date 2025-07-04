@@ -16,7 +16,7 @@ I'm a <b>Computer Science undergraduate</b> with a strong passion for developing
 </p>
 
 - 🎓 **Undergraduate** at **Trincomalee Campus, Eastern University**  
-- 📍 **Location**: Monaragala, Sri Lanka  
+- 📍 **Location**: Colombo, Sri Lanka  
 - 💻 **Tech Interests**: Full-Stack Development, UI/UX Design 
 - 📚 **Always Learning**: Exploring new technologies and improving problem-solving skills  
 - 🎨 **Hobbies**: Coding, Designing, and Innovating  
